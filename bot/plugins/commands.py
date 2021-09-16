@@ -35,7 +35,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developer', url="https://t.me/sabotschannel"
+                                    ''join channel♂️, url="https://t.me/movieinfinites"
                                 )
                         ]
                     ]
