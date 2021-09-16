@@ -47,10 +47,10 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('Developers', url='https://t.me/sabotschannel'),
+        InlineKeyboardButton('♂️join channel♂️', url='https://t.me/startono'),
         InlineKeyboardButton('Source Code 🧾', url ='https://github.com/sunaif-adkar2/auto-filter-bot-premier')
     ],[
-        InlineKeyboardButton('Support 🛠', url='https://t.me/sabotschannel')
+        InlineKeyboardButton('for movies 🛠', url='https://t.me/movieinfinites')
     ],[
         InlineKeyboardButton('Help ⚙', callback_data="help")
     ]]
